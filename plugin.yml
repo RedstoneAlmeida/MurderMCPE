@@ -1,0 +1,7 @@
+name: MurderMCPE
+main: mc.slice.murder.Loader
+version: "1.0.0"
+api: 1.0.0
+load: POSTWORLD
+author: RedstoneAlmeida
+description: SliceBrasil Murder
